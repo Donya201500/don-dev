@@ -1,5 +1,3 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Donya+%F0%9F%91%8B;Welcome+to+my+profile!;Let's+build+something+cool!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Donya+%F0%9F%8C%B8;Welcome+to+my+project+%E2%9C%A8;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
